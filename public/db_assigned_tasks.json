@@ -1,0 +1,34 @@
+[
+  {
+    "id": "TSK-001",
+    "title": "Clear Block-4 Gate Overflow",
+    "complaintId": "REP-001",
+    "complaintLocation": "Block-4 North Gate",
+    "complaintDescription": "Huge mountain of plastic garbage bags overflowing and blocking the walkway outside the gate. Bad smell is overwhelming.",
+    "workerId": "EMP-101",
+    "workerName": "Dave Miller",
+    "priority": "Urgent",
+    "dueDate": "2026-07-10",
+    "estimatedTime": "3 hours",
+    "remarks": "Priority task. Heavy trucks needed.",
+    "status": "In Progress",
+    "createdAt": "2026-07-04T15:36:25.138Z",
+    "updatedAt": "2026-07-04T15:36:25.139Z"
+  },
+  {
+    "id": "TSK-002",
+    "title": "Litter sweep near crossroad bin",
+    "complaintId": "REP-002",
+    "complaintLocation": "Park Street Crossing",
+    "complaintDescription": "The garbage bin near the intersection has been full for several days, domestic waste starting to spill on the grass park area.",
+    "workerId": "EMP-102",
+    "workerName": "Elena Rostova",
+    "priority": "Medium",
+    "dueDate": "2026-07-12",
+    "estimatedTime": "1.5 hours",
+    "remarks": "Make sure grass area is completely swept clean.",
+    "status": "Assigned",
+    "createdAt": "2026-07-04T15:36:25.139Z",
+    "updatedAt": "2026-07-04T15:36:25.139Z"
+  }
+]

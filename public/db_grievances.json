@@ -1,0 +1,74 @@
+[
+  {
+    "id": "REP-001",
+    "location": "Block-4 North Gate",
+    "department": "Sanitation Dept",
+    "description": "Huge mountain of plastic garbage bags overflowing and blocking the walkway outside the gate. Bad smell is overwhelming.",
+    "severity": "critical",
+    "status": "dispatching",
+    "citizenName": "Alice Johnson",
+    "citizenEmail": "alice.johnson@edu.com",
+    "timestamp": 1783175596035,
+    "updatedAt": 1783175596035,
+    "latitude": 12.9845,
+    "longitude": 80.2201,
+    "proofUrl": "https://images.unsplash.com/photo-1611284446314-60a58ac0deb9?auto=format&fit=crop&w=600&q=80",
+    "comments": [
+      "Assigned sanitation officer has been notified.",
+      "Sanitation dispatch vehicle #402 dispatched."
+    ]
+  },
+  {
+    "id": "REP-002",
+    "location": "Park Street Crossing",
+    "department": "Waste Management Board",
+    "description": "The garbage bin near the intersection has been full for several days, domestic waste starting to spill on the grass park area.",
+    "severity": "moderate",
+    "status": "assigned",
+    "citizenName": "Bob Smith",
+    "citizenEmail": "bob.smith@outlook.com",
+    "timestamp": 1783172116035,
+    "updatedAt": 1783172116035,
+    "latitude": 12.9782,
+    "longitude": 80.219,
+    "proofUrl": "https://images.unsplash.com/photo-1530587191325-3db32d826c18?auto=format&fit=crop&w=600&q=80",
+    "comments": [
+      "Assigned to Zone 4 Waste Management unit."
+    ]
+  },
+  {
+    "id": "REP-003",
+    "location": "Sector 7 Metro Station",
+    "department": "Health & Environment",
+    "description": "Several stray dogs digging through organic wet garbage bags and scattering them all over the main metro entrance steps.",
+    "severity": "critical",
+    "status": "new",
+    "citizenName": "Charlie Brown",
+    "citizenEmail": "charlie@gmail.com",
+    "timestamp": 1783167436035,
+    "updatedAt": 1783167436035,
+    "latitude": 12.9899,
+    "longitude": 80.2265,
+    "proofUrl": "https://images.unsplash.com/photo-1503596476-1c12a8ba09a9?auto=format&fit=crop&w=600&q=80",
+    "comments": []
+  },
+  {
+    "id": "REP-004",
+    "location": "Kovil Lane Commercial",
+    "department": "Municipal Administration",
+    "description": "Commercial cardboard boxes and hotel organic food leftovers combined into a giant pile that is attracting flies and vermin.",
+    "severity": "critical",
+    "status": "resolved",
+    "citizenName": "David Wilson",
+    "citizenEmail": "david.wilson@shop.com",
+    "timestamp": 1783158436035,
+    "updatedAt": 1783169236035,
+    "latitude": 12.9712,
+    "longitude": 80.2081,
+    "proofUrl": "https://images.unsplash.com/photo-1516996087931-5ae40155304e?auto=format&fit=crop&w=600&q=80",
+    "comments": [
+      "Municipal service cleared the road successfully.",
+      "Citizen verified & confirmed resolution."
+    ]
+  }
+]

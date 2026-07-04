@@ -1,0 +1,32 @@
+[
+  {
+    "id": "EMP-101",
+    "fullName": "Dave Miller",
+    "employeeId": "EMP-101",
+    "email": "dave.miller@portal.gov",
+    "mobileNumber": "9876543210",
+    "address": "Zone A, Sanitation Depot",
+    "profilePhoto": "https://images.unsplash.com/photo-1540569014015-19a7be504e3a?auto=format&fit=crop&w=150&q=80",
+    "dateOfJoining": "2024-01-15",
+    "department": "Sanitation Dept",
+    "areaZone": "Block-4 North Gate",
+    "username": "worker1",
+    "passwordHash": "Secret@123",
+    "status": "Active"
+  },
+  {
+    "id": "EMP-102",
+    "fullName": "Elena Rostova",
+    "employeeId": "EMP-102",
+    "email": "worker2@example.com",
+    "mobileNumber": "9876543211",
+    "address": "Zone B, Waste Center",
+    "profilePhoto": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=150&q=80",
+    "dateOfJoining": "2024-02-10",
+    "department": "Waste Management Board",
+    "areaZone": "Park Street Crossing",
+    "username": "worker2",
+    "passwordHash": "Worker@123",
+    "status": "Active"
+  }
+]

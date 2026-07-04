@@ -1,0 +1,15 @@
+{
+  "name": "Garbage Overflow Reporting Portal",
+  "description": "A public service grievance system for citizens to report overflowing bins, track resolution status, and view analytics.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "Issue Reporting",
+    "Admin Dashboard",
+    "Status Tracking",
+    "AI-powered Categorization",
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
