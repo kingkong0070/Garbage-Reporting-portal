@@ -23,6 +23,10 @@ A public-service grievance management system that lets citizens report overflowi
 - Node.js (LTS recommended)
 - A [Gemini API key](https://ai.google.dev/) for AI-powered categorization
 
+- ## Live Demo
+
+[View Live Demo](YOUR_DEPLOYED_URL)
+
 ## Getting Started
 
 1. **Install dependencies**
